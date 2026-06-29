@@ -13,7 +13,7 @@ class Solution {
         }
         max=lsum;
 
-        for(int i=k-1; i>=0; i--){
+        for(int i=k-1; i>=0; i--){ // yaha pe kyaa kiye hai ki lsum bale window ko kaam kaar rahe and right sum bale windo ko piche se badha rahe aab jo max hogaa o answer baan jaye gaa final TC (K) aaye gaa.
             lsum-=cardPoints[i];
             rsum+=cardPoints[right];
             max=Math.max(max,lsum+rsum);
