@@ -47,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1248-count-number-of-nice-subarrays) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
