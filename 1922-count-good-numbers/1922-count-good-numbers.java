@@ -11,7 +11,7 @@ class Solution {
         // }else{
         //     return 5*countGoodNumbers(n-1)%MOD;
         // }
-        long result=(power(5,(n-n/2))*power(4,n/2))%MOD;
+        long result=(power(5,(n-n/2))*power(4,n/2))%MOD; //yaa aise socho ki even place ko fill karne ke 5 ways and odd ko karne ke 4 ways and n digit number me odd place n/2 and even place n-n/2 so total power(5,n-n/2) * power(4,n/2);
         return (int) result;
     }
 
