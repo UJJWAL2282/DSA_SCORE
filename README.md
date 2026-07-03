@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0078-subsets) |
 | [0904-fruit-into-baskets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1004-max-consecutive-ones-iii) |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
