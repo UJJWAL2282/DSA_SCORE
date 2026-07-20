@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1004-max-consecutive-ones-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
