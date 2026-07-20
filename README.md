@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1004-max-consecutive-ones-iii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
