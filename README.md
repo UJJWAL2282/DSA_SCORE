@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0503-next-greater-element-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/UJJWAL2282/DSA_SCORE/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
