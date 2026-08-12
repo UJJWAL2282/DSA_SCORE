@@ -3,32 +3,16 @@ class Solution {
         int n=nums.length;
 
         int i=1;
+        int ans=0;
 
-        for(i=1; i<n; i++){
-            if(nums[i-1]>nums[i]){
-                break;
+        for(i=0; i<n; i++){
+            if(nums[i]>nums[(i+1)%n]){
+                ans++;
             }
         }
 
-        int b[]=new int[n];
-
-        for(int j=0; j<n; j++){
-            b[j]=nums[(j+i) % n];
-        }
-
-        for(int j=0; j<n; j++){
-            System.out.print(b[j]);
-        }
-
-
-        for(int j=1; j<n; j++){
-            if(b[j-1]>b[j]){
-                return false;
-            }
-        }
-
-
-        return true;
+        
+        return ans<=1;
 
 
     }
